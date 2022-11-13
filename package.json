@@ -25,6 +25,9 @@
     "extends": [
       "react-app",
       "react-app/jest"
-    ]
+    ],
+    "rules": {
+      "@typescript-eslint/explicit-function-return-type": "warn"
+    }
   }
 }
