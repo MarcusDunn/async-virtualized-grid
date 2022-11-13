@@ -1,7 +1,16 @@
 {
-  "name": "async-virtualized-grid",
-  "version": "0.1.0",
-  "private": true,
+  "name": "@marcusdunn/async-virtualized-grid",
+  "version": "0.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcusdunn/async-virtualized-grid.git"
+  },
+  "homepage": "https://github.com/marcusdunn/async-virtualized-grid",
+  "author": "Marcus Dunn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcusdunn/async-virtualized-grid/issues"
+  },
   "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
